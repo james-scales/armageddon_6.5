@@ -3,6 +3,7 @@
 
 ## Structure
 - `spoke/`: Contains the Terraform configuration for a single spoke, including VPC, subnet, HA VPN Gateway, and Cloud Router. See `spoke/README.md` for details.
+- NCC Hub and Spoke Collaborative Configuration https://github.com/bleeng089/Armageddon_6.5_6-2025_v2
 
 # Individual Armageddon
 ## Presentation Document within Repo
