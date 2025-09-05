@@ -1,4 +1,16 @@
 # Armageddon Class 6.5
+
+# Contents
+# Group Tasks
+## Task 1 Spoke Configuration Hub & Spoke Configuration
+## Task 3 Be A Man Challenge 5
+- https://github.com/james-scales/gcp-global-alb-jumpbox-challenge
+# Individual Tasks
+## Balerica's Cloud Transformation Strategy
+- https://github.com/james-scales/armageddon_6.5/blob/main/Balerica's%20Cloud%20Transformation%20Strategy.pptx
+
+- ----------------------------------------------------------------------------
+
 # Spoke Configuration for Walid's Hub & Spoke Configuration
 
 ## Structure
