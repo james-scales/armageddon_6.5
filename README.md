@@ -27,13 +27,13 @@ The Network team is looking to automate a portion of their network infrastructur
 Task 3: 
 The Operations team wants to ensure scalability for their applications. Complete "Be a Man #5", but now creating a Linux VM in a separate region for each group member. Firewall tag for each Linux VM must be named after each group member, and the Windows VM must be able to access all Linux VMs. Step by step guide must be provided within the readme for task 3. There must be a .tf file for each participating member, complete with comments. This will be in terraform. 
 
-## Load Balancing
+## Structure | Load Balancing
 ### 1 VPC, 2 regions
-###		§ Public = North America region
-###			§ Private = region of your choice
-###		○ 1 Windows VM, 1 internal load balancer using Linux VMs
+###	Public = North America region
+###	Private = region of your choice
+###	1 Windows VM, 1 internal load balancer using Linux VMs
 
-### Not Complete
+### **** Not Complete ****
 
 - ----------------------------------------------------------------------------
 
