@@ -13,11 +13,23 @@
 
 - ----------------------------------------------------------------------------
 
+Task 1: 
+The Network team is looking to automate a portion of their network infrastructure. In Terraform, build a classic (or HA) VPN connection that connects Balerica Inc. (GCP account) and your team (different GCP account). In addition, find a way to connect specific subnets from each team member to each other, creating a ring or similar topology between all participating group members and the VPN. Terraform code must also be accompanied by a network topology diagram, describing how team members are connected with each other, and how the team is connected with Balerica Inc. There must be a .tf file for each participating member's connections to Balerica Inc. and each other, complete with comments. This will require multiple GCP accounts. This will be in terraform. 
+
 # Spoke Configuration for Walid's Hub & Spoke Configuration
 
 ## Structure
 - `spoke/`: Contains the Terraform configuration for a single spoke, including VPC, subnet, HA VPN Gateway, and Cloud Router. See `spoke/README.md` for details.
 - NCC Hub and Spoke Collaborative Configuration https://github.com/bleeng089/Armageddon_6.5_6-2025_v2
+- ----------------------------------------------------------------------------
+# Be A Man Challenge 5
+
+Task 3: 
+The Operations team wants to ensure scalability for their applications. Complete "Be a Man #5", but now creating a Linux VM in a separate region for each group member. Firewall tag for each Linux VM must be named after each group member, and the Windows VM must be able to access all Linux VMs. Step by step guide must be provided within the readme for task 3. There must be a .tf file for each participating member, complete with comments. This will be in terraform. 
+
+## 
+
+- ----------------------------------------------------------------------------
 
 # Individual Armageddon
 ## Presentation Document within Repo
