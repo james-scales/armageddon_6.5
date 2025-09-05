@@ -3,6 +3,7 @@
 # Contents
 # Group Tasks
 ## Task 1 Spoke Configuration Hub & Spoke Configuration
+- https://github.com/james-scales/armageddon_6.5/tree/main
 ## Task 3 Be A Man Challenge 5
 - https://github.com/james-scales/gcp-global-alb-jumpbox-challenge
 # Individual Tasks
